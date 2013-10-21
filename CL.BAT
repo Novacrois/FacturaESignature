@@ -1,0 +1,1 @@
+java -jar FirEleFa.jar factura.xml factura.xsig Explorer
